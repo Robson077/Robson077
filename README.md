@@ -7,6 +7,8 @@
 </div>
   
 <div style="display: inline_block"><br>
+  <h4>Linguagens que tenho domínio</h4>
+  HTML, CSS, JAVASCRIPT, SASS
 </div>
   
 ##
