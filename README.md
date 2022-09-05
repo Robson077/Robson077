@@ -8,7 +8,7 @@
   
 <div style="display: inline_block"><br>
   <h2>Linguagens que tenho domínio</h2>
-  HTML, CSS, JAVASCRIPT, BOOTSTRAP, SASS
+  <i class="fa-brands fa-square-js"></i>
 </div>
   
 ##
