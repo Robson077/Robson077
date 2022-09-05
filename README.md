@@ -1,5 +1,5 @@
 ### Oi eu sou o Robson, programador FRONT-END
-<head><script src="https://kit.fontawesome.com/21eed3e0e8.js" crossorigin="anonymous"></script></head>
+
 <div align="center">
   <a href="https://github.com/Robson077">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Robson077&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -7,8 +7,14 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <h2>Linguagens que tenho domínio</h2>
-  <i class="fa-brands fa-square-js"></i>
+  <h2>Ferramentas e Tecnologias</h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="80px" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="80px" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65px" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="80px" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="80px" width="80px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="80px" width="70px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80px" width="70px"/>
 </div>
   
 ##
