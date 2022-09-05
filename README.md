@@ -1,5 +1,5 @@
 ### Oi eu sou o Robson, programador FRONT-END
-<header><script src="https://kit.fontawesome.com/21eed3e0e8.js" crossorigin="anonymous"></script></header>
+<head><script src="https://kit.fontawesome.com/21eed3e0e8.js" crossorigin="anonymous"></script></head>
 <div align="center">
   <a href="https://github.com/Robson077">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Robson077&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
