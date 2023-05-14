@@ -20,7 +20,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <h2>Estou aprendendo</h2>
+  <h2>Estou estudando</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70px" width="60px"/>
 </div>
   
